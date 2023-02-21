@@ -1,0 +1,29 @@
+[{
+  "_id": {
+    "$oid": "63988a018681706f2b51a226"
+  },
+  "name": "Дмитрий",
+  "city": "Иваново",
+  "comment": "Хороший мегаминкс",
+  "productImg": "Мегаминксы/QiYi MoFangGe Megaminx QiHeng (S)-1.png",
+  "created": {
+    "$date": {
+      "$numberLong": "1670936959030"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63988a598681706f2b51a230"
+  },
+  "name": "Никита",
+  "city": "Борисов",
+  "comment": "Отличный йо-йо, отлично крутится и верёвка крепкая!",
+  "productImg": "Скиллтои/Yo-Yo Ghost 2-1.png",
+  "created": {
+    "$date": {
+      "$numberLong": "1670936959030"
+    }
+  },
+  "__v": 0
+}]

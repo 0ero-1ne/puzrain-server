@@ -1,0 +1,14 @@
+[{
+  "_id": {
+    "$oid": "6398b0088992a026c3251542"
+  },
+  "username": "dima",
+  "email": "d@d.ru",
+  "password": "$2a$10$g.jZMLsXv5WQlcl/bwUHf.8TGBPH99h4IVPtAKssMAI3zCjSqBHMi",
+  "created": {
+    "$date": {
+      "$numberLong": "1670950903575"
+    }
+  },
+  "__v": 0
+}]

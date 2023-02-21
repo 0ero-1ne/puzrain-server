@@ -1,0 +1,122 @@
+[{
+  "_id": {
+    "$oid": "638fc938ebdcebb25e5b0e66"
+  },
+  "title": "2x2",
+  "created": {
+    "$date": {
+      "$numberLong": "1670367528721"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6391026dde94aade91e90874"
+  },
+  "title": "3x3",
+  "created": {
+    "$date": {
+      "$numberLong": "1670447715877"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63910301e5a4805a81a2adda"
+  },
+  "title": "4x4",
+  "created": {
+    "$date": {
+      "$numberLong": "1670447733358"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63910308e5a4805a81a2addd"
+  },
+  "title": "5x5",
+  "created": {
+    "$date": {
+      "$numberLong": "1670447733358"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63910312e5a4805a81a2ade0"
+  },
+  "title": "6x6",
+  "created": {
+    "$date": {
+      "$numberLong": "1670447733358"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63910316e5a4805a81a2ade3"
+  },
+  "title": "7x7",
+  "created": {
+    "$date": {
+      "$numberLong": "1670447733358"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6391031fe5a4805a81a2ade6"
+  },
+  "title": "Мегаминксы",
+  "created": {
+    "$date": {
+      "$numberLong": "1670447733358"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63910328e5a4805a81a2ade9"
+  },
+  "title": "Скьюбы",
+  "created": {
+    "$date": {
+      "$numberLong": "1670447733358"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6391033ce5a4805a81a2adec"
+  },
+  "title": "Скиллтои",
+  "created": {
+    "$date": {
+      "$numberLong": "1670447733358"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63910356e5a4805a81a2adef"
+  },
+  "title": "Необычные",
+  "created": {
+    "$date": {
+      "$numberLong": "1670447733358"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6391036ae5a4805a81a2adf2"
+  },
+  "title": "Разное",
+  "created": {
+    "$date": {
+      "$numberLong": "1670447733358"
+    }
+  },
+  "__v": 0
+}]
